@@ -1,0 +1,29 @@
+---
+- description: This article discusses buffer overflow vulnerabilities in Linux running
+    on Power/Cell Broadband Engine Architecture processor-based servers. All examples
+    presented on this article were developed and executed on an IBM BladeCenter JS22
+    Express server, a IBM BladeCenter QS21 server, and a Sony Playstation 3, running
+    Red Hat Enterprise Linux 4 Update 7. Previous knowledge of buffer overflows is
+    required.
+  filename: lopbuffer.pdf
+  name: Linux on Power/Cell BE Architecture Buffer Overflow Vulnerabilities
+  published: 2009-01-14 00:00:00.000000000 Z
+  resources:
+  - name: View on IBM developerWorks (Part 1)
+    url: http://web.archive.org/web/20160329141039/http://www.ibm.com/developerworks/linux/library/l-lopbuf1/
+  - name: View on IBM developerWorks (Part 2)
+    url: http://web.archive.org/web/20160329144519/http://www.ibm.com/developerworks/linux/library/l-lopbuf2/
+  updated:
+  url: https://github.com/rcvalle/articles/raw/HEAD/lopbuffer.pdf
+- description: This article discusses buffer overflow vulnerabilities in Linux kernel's
+    Slab Allocator. All examples presented on this article were developed and executed
+    on a x86 processor-based computer running Slackware Linux 10.2. Previous knowledge
+    of buffer overflows is required.
+  filename: linuxslab.pdf
+  name: Linux Slab Allocator Buffer Overflow Vulnerabilities
+  published: 2008-12-12 00:00:00.000000000 Z
+  resources:
+  - name: View on IBM developerWorks Brazil
+    url: http://web.archive.org/web/20090519005305/http://www.ibm.com:80/developerworks/br/library/Linux_Slab_Allocator_BR.html
+  updated:
+  url: https://github.com/rcvalle/articles/raw/HEAD/linuxslab.pdf
